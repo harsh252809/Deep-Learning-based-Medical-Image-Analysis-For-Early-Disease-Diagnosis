@@ -1,5 +1,8 @@
 # Deep Learning Based Medical Image Analysis For Early Disease Detection
 
+> Original college repository heading preserved from its initial commit: `# Deep-Learning-based-Medical-Image-Analysis-For-Early-Disease-Diagnosis`.
+
+
 This repository implements a research prototype based on the supplied Phase-I project report. The report scopes three separate 2D image-analysis cases: thoracic findings in chest X-rays, diabetic-retinopathy grading in retinal fundus images, and skin-lesion classification in dermoscopic images. The application uses trained local checkpoints for predictions; it does not fabricate outputs when data or checkpoints are missing.
 
 > **Academic research only.** The software is not clinically validated and does not diagnose disease. Model outputs must not replace a qualified clinician's assessment.
